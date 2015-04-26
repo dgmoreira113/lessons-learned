@@ -17,7 +17,6 @@ First of all, if you are working in a corporate environment remember not to call
 The idea is to create the simplest pass/fail test that will allow you to learn what you need to learn. 
 There are several ways to test your idea without incurring in large initial costs. Here follow some examples:
 
-•	Flyers: this is probably the simplest way to evaluate if someone really has a need for your solution. You can measure how long it takes for people to take all the tickets.
 •	Landing page: do a simple landing page explaining what product you are trying to solve, what is your value proposition, and a call to action to sign up to learn more. You can measure interest by the number of page views and signups you get.
 •	A/B testing: if you have a website and is not sure what feature to launch, include links for your most promising ideas and check interest by measuring number of page views and give customers the possibility to sign up to be contacted once the feature is ready. 
 •	LoF (Low Fidelity): instead of creating the full product with all the possible features clients might want to see, think what the most relevant feature the product must have is and what the simplest way to develop it. If customers are willing to use your product even though the solution is not ideal, you are probably solving a real problem.  
