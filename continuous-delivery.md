@@ -5,4 +5,6 @@ The benefits of using continuous delivery are, among others, accelerated time to
 
 Here's the link to the Wikipedia page on Continuous Delivery: http://en.wikipedia.org/wiki/Continuous_delivery
 
+Also, here's an image file that summarizes the concept of Continuous Delivery and its benefits:
+
 ![continuous-delivery](http://continuousdelivery.com/wp-content/uploads/2014/02/01_CD_the_idea_low-res.jpg)
