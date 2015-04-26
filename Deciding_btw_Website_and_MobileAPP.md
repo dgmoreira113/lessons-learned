@@ -44,6 +44,8 @@ Building a Mobile App:
                 •http://mashable.com/2012/06/06/mobile-site-mobile-app-infographic/
                 
         Check out this infographic:
-        http://rack.0.mshcdn.com/media/ZgkyMDEyLzA2LzA2LzA4XzQ5XzA5XzI4M19maWxlCnAJdGh1bWIJMTIwMHg5NjAwPg/efc21892
+        ![MVP-image](http://rack.0.mshcdn.com/media/ZgkyMDEyLzA2LzA2LzA4XzQ5XzA5XzI4M19maWxlCnAJdGh1bWIJMTIwMHg5NjAwPg/efc21892)
+        
+        
         
         
